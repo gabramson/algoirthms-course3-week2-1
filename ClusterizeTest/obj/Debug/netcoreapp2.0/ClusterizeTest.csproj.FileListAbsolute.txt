@@ -1,0 +1,4 @@
+C:\projects\C#\Coursera\algorithms-course3\week2-1\ClusterizeTest\obj\Debug\netcoreapp2.0\ClusterizeTest.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-1\ClusterizeTest\obj\Debug\netcoreapp2.0\ClusterizeTest.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-1\ClusterizeTest\obj\Debug\netcoreapp2.0\ClusterizeTest.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-1\ClusterizeTest\obj\Debug\netcoreapp2.0\ClusterizeTest.AssemblyInfo.cs

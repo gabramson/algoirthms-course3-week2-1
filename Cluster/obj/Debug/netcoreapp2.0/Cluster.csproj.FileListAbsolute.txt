@@ -1,0 +1,11 @@
+C:\projects\C#\Coursera\algorithms-course3\week2-1\Cluster\bin\Debug\netcoreapp2.0\Cluster.deps.json
+C:\projects\C#\Coursera\algorithms-course3\week2-1\Cluster\bin\Debug\netcoreapp2.0\Cluster.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-course3\week2-1\Cluster\bin\Debug\netcoreapp2.0\Cluster.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-course3\week2-1\Cluster\bin\Debug\netcoreapp2.0\Cluster.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-1\Cluster\bin\Debug\netcoreapp2.0\Cluster.pdb
+C:\projects\C#\Coursera\algorithms-course3\week2-1\Cluster\obj\Debug\netcoreapp2.0\Cluster.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-1\Cluster\obj\Debug\netcoreapp2.0\Cluster.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-1\Cluster\obj\Debug\netcoreapp2.0\Cluster.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-course3\week2-1\Cluster\obj\Debug\netcoreapp2.0\Cluster.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-course3\week2-1\Cluster\obj\Debug\netcoreapp2.0\Cluster.dll
+C:\projects\C#\Coursera\algorithms-course3\week2-1\Cluster\obj\Debug\netcoreapp2.0\Cluster.pdb
